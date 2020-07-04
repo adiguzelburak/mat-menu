@@ -1,0 +1,7 @@
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\bin\Debug\Matematik Menüsü.exe.config
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\bin\Debug\Matematik Menüsü.exe
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\bin\Debug\Matematik Menüsü.pdb
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\obj\Debug\Matematik Menüsü.csprojAssemblyReference.cache
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\obj\Debug\Matematik Menüsü.csproj.CoreCompileInputs.cache
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\obj\Debug\Matematik Menüsü.exe
+C:\Users\adigu\source\repos\Matematik Menüsü\Matematik Menüsü\obj\Debug\Matematik Menüsü.pdb
